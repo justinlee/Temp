@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",39
+#EXTINF:-1 tvg-id="141" tvg-logo="http://i.imgur.com/6pWpFCX.png" tvh-chnum="154" tvh-tags="니켈로디언",니켈로디언
 rtp://233.18.145.77:56350
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",40
+#EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvh-chnum="56" tvh-tags="SPOTV",스포티비
 rtp://233.18.145.171:56500
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",41
+#EXTINF:-1 tvg-id="5" tvg-logo="http://i.imgur.com/sIp2MZ3.png" tvh-chnum="153" tvh-tags="애니원",애니원
 rtp://233.18.145.78:56360
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",42
 rtp://233.18.145.16:57150
