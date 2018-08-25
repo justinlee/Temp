@@ -7,33 +7,33 @@ rtp://233.18.145.171:56500
 rtp://233.18.145.78:56360
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",42
 rtp://233.18.145.16:57150
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",43
+#EXTINF:-1 tvg-id="273" tvg-logo="http://i.imgur.com/1Eeyijd.png" tvh-chnum="103" tvh-tags="이벤트TV",이벤트TV
 rtp://233.18.145.172:56510
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",44
+#EXTINF:-1 tvg-id="93" tvg-logo="http://i.imgur.com/wOOQEC1.png" tvh-chnum="62" tvh-tags="IB SPORTS",IB스포츠
 rtp://233.18.145.79:56370
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",45
+#EXTINF:-1 tvg-id="137" tvg-logo="http://i.imgur.com/M4nh0Rk.png" tvh-chnum="134" tvh-tags="NatGeo Wild",냇지오 와일드
 rtp://233.18.145.173:57180
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",46
+#EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" tvh-chnum="52" tvh-tags="SPOTV2",스포티비2
 rtp://233.18.145.80:56380
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",47
+#EXTINF:-1 tvg-id="84" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvh-chnum="30" tvh-tags="GS MY SHOP",GS마이샵
 rtp://233.18.145.174:57400
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",48
+#EXTINF:-1 tvg-id="89" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvh-chnum="91" tvh-tags="하이라이트TV",하이라이트TV
 rtp://233.18.145.81:57010
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",49
+#EXTINF:-1 tvg-id="244" tvg-logo="http://i.imgur.com/zLJHU3J.png" tvh-chnum="291" tvh-tags="미드나잇",미드나잇
 rtp://233.18.145.82:56280
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",50
+#EXTINF:-1 tvg-id="313" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvh-chnum="34" tvh-tags="현대홈쇼핑+샵",현대홈쇼핑+샵
 rtp://233.18.145.175:57600
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",51
+#EXTINF:-1 tvg-id="159" tvg-logo="http://i.imgur.com/NglRqcV.png" tvh-chnum="290" tvh-tags="Playboy TV",플레이보이
 rtp://233.18.145.83:56290
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",52
+#EXTINF:-1 tvg-id="41" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvh-chnum="32" tvh-tags="CJ오쇼핑 플러스",CJ오쇼핑+
 rtp://233.18.145.176:57810
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",53
+#EXTINF:-1 tvg-id="215" tvg-logo="http://i.imgur.com/mKWQE7z.png" tvh-chnum="188" tvh-tags="WBS원음방송",원음방송
 rtp://233.18.145.177:57850
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",54
+#EXTINF:-1 tvg-id="100" tvg-logo="http://i.imgur.com/KvGwEc1.png" tvh-chnum="50" tvh-tags="JTBC3",JTBC3 FOX스포츠
 rtp://233.18.145.178:57950
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",55
+#EXTINF:-1 tvg-id="86" tvg-logo="http://i.imgur.com/1qXSXRa.png" tvh-chnum="136" tvh-tags="GTV",GTV
 rtp://233.18.145.179:57480
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",56
+#EXTINF:-1 tvg-id="250" tvg-logo="http://i.imgur.com/GSPRJqf.png" tvh-chnum="166" tvh-tags="부메랑",부메랑
 rtp://233.18.145.180:57570
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",57
 rtp://233.18.145.216:55228
@@ -47,57 +47,57 @@ rtp://233.18.145.219:55264
 rtp://233.18.145.220:55276
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",62
 rtp://233.18.145.221:55288
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",63
+#EXTINF:-1 tvg-id="263" tvg-logo="http://i.imgur.com/nFWWIFP.png" tvh-chnum="141" tvh-tags="아리랑 TV",아리랑TV
 rtp://233.18.145.86:56010
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",64
 rtp://233.18.145.222:55300
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",65
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="동시시청",동시시청
 rtp://233.18.145.87:56320
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",66
 rtp://233.18.145.223:55312
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",67
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="4채널",4채널
 rtp://233.18.145.88:56390
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",68
 rtp://233.18.145.224:55324
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",69
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="4채널",4채널
 rtp://233.18.145.89:56420
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",70
 rtp://233.18.145.225:55336
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",71
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="4채널",4채널
 rtp://233.18.145.90:56430
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",72
 rtp://233.18.145.226:55348
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",73
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="4채널",4채널
 rtp://233.18.145.91:56500
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",74
 rtp://233.18.145.227:55360
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",75
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="방송대학TV",방송대학TV
 rtp://233.18.145.21:57050
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",76
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="4채널",4채널
 rtp://233.18.145.92:56510
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",77
 rtp://233.18.145.228:55372
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",78
+#EXTINF:-1 tvg-id="171" tvg-logo="http://i.imgur.com/lTK9VD4.png" tvh-chnum="41" tvh-tags="스크린",스크린
 rtp://233.18.145.93:56520
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",79
+#EXTINF:-1 tvg-id="38" tvg-logo="http://i.imgur.com/TfhQXIv.png" tvh-chnum="42" tvh-tags="cineF",시네프
 rtp://233.18.145.94:56530
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",80
 rtp://233.18.145.23:56420
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",81
 rtp://233.18.145.24:57660
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",82
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",???
 rtp://233.18.145.120:55120
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",83
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",???
 rtp://233.18.145.121:55492
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",84
 rtp://233.18.145.27:57310
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",85
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",???
 rtp://233.18.145.122:55624
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",86
+#EXTINF:-1 tvg-id="45" tvg-logo="http://i.imgur.com/Mx8ZXqk.png" tvh-chnum="118" tvh-tags="CNBC",CNBC
 rtp://233.18.145.28:57350
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",87
 rtp://233.18.145.29:57390
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",88
+#EXTINF:-1 tvg-id="98" tvg-logo="http://i.imgur.com/Bnw7O5U.png" tvh-chnum="54" tvh-tags="JTBC Golf",JTBC골프
 rtp://233.18.145.126:60000
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",89
 rtp://233.18.145.34:58010
@@ -107,7 +107,7 @@ rtp://233.18.145.35:57360
 rtp://233.18.145.37:57320
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",92
 rtp://233.18.145.38:57700
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",93
+#EXTINF:-1 tvg-id="117" tvg-logo="http://i.imgur.com/yUk2RhO.png" tvh-chnum="171" tvh-tags="KTV",KTV
 rtp://233.18.145.39:57330
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",94
 rtp://233.18.145.43:57650
