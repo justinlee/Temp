@@ -271,9 +271,8 @@ rtp://233.14.202.186:60000
 rtp://233.14.202.37:60000
 #EXTINF:-1 tvg-id="173" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvh-chnum="79" tvh-tags="SkyDrama",스카이드라마
 rtp://233.14.202.187:60000
-#EXTINF:-1 tvg-id="201" tvg-logo="http://i.imgur.com/6vzmEfd.png" tvh-chnum="47" tvh-tags="THE MOVIE",더 무비
-rtp://233.14.202.38:60000
 #EXTINF:-1 tvg-id="2" tvg-logo="http://i.imgur.com/ipM9AXe.png" tvh-chnum="148" tvh-tags="애니박스",애니박스
+rtp://233.14.202.38:60000
 #EXTINF:-1 tvg-id="278" tvg-logo="http://i.imgur.com/Nal18s5.png" tvh-chnum="87" tvh-tags="중화TV",중화TV
 rtp://233.14.202.188:60000
 #EXTINF:-1 tvg-id="266" tvg-logo="http://i.imgur.com/7RKoOZq.png" tvh-chnum="149" tvh-tags="애니플러스",애니플러스
