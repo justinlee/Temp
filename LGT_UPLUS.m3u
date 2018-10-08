@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvh-chnum="11" tvh-tags="MBC",MBC
+rtp://233.18.145.194:55216
+
+#EXTINF:-1 tvg-id="110" tvg-logo="http://i.imgur.com/e31o5gw.png" tvh-chnum="9" tvh-tags="KBS1",KBS1
+rtp://233.18.145.192:55012
+
+#EXTINF:-1 tvg-id="111" tvg-logo="http://i.imgur.com/XgibZbD.png" tvh-chnum="7" tvh-tags="KBS2",KBS2
+rtp://233.18.145.120:55120
+
+#EXTINF:-1 tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvh-chnum="5" tvh-tags="SBS",SBS
+rtp://233.18.145.195:55384
+
 #EXTINF:-1 tvg-id="141" tvg-logo="http://i.imgur.com/6pWpFCX.png" tvh-chnum="154" tvh-tags="니켈로디언",니켈로디언
 rtp://233.18.145.77:56350
 #EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvh-chnum="56" tvh-tags="SPOTV",스포티비
@@ -85,8 +98,6 @@ rtp://233.18.145.94:56530
 rtp://233.18.145.23:56420
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",81
 rtp://233.18.145.24:57660
-#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",???
-rtp://233.18.145.120:55120
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",???
 rtp://233.18.145.121:55492
 #EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="" tvh-tags="",84
